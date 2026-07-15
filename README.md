@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi 👋, I'm Aditya Tiwari
 
-<!--
-**codeswithaditya/codeswithaditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 BCA Student (2024–2027)
 
-Here are some ideas to get you started:
+💻 Full Stack Web Development Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 AI & Vibe Coding Enthusiast
+
+🐍 Python | JavaScript | HTML | CSS
+
+🌱 Currently Learning
+- JavaScript
+- React.js
+- Node.js
+- Python
+- Git & GitHub
+
+## 🛠️ Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git
+- GitHub
+
+## 📂 Featured Projects
+
+🔹 Grade Calculator
+
+🔹 DigitalSaathi Website
+
+🔹 JavaScript Mini Projects
+
+## 📫 Connect With Me
+
+LinkedIn:
+https://www.linkedin.com/in/aditya-tiwari-12ba0231b
+
+⭐ Thanks for visiting my profile!
+
