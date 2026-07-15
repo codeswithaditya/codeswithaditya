@@ -3,20 +3,22 @@
 <h3 align="center">🚀 Full Stack Web Development Learner | AI & Vibe Coding Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F72A&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Python+Developer;JavaScript+Developer;AI+%26+Vibe+Coding+Enthusiast;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&color=00F72A&lines=Full+Stack+Web+Development+Learner;JavaScript+Developer;Python+Developer;AI+%26+Vibe+Coding+Enthusiast;Building+Real+World+Projects" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=codeswithaditya&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 BCA Student (2023–2027)
-
-🌱 Currently Learning **Full Stack Web Development**
-
-🤖 Passionate about **AI, Automation & Vibe Coding**
-
-💡 Love Building Real-World Projects
+- 🎓 BCA Student (2023–2027)
+- 🌱 Currently Learning **Full Stack Web Development**
+- 🤖 AI & Vibe Coding Enthusiast
+- 💡 Passionate About Building Real-World Projects
+- 📍 Ghaziabad, Uttar Pradesh, India
 
 ---
 
@@ -30,28 +32,41 @@
 
 ## 🚀 Featured Projects
 
-✅ JavaScript Mini Projects
-
-✅ Grade Calculator
-
-✅ DigitalSaathi Website
+- ✅ JavaScript Mini Projects
+- ✅ Grade Calculator
+- ✅ DigitalSaathi Website
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=codeswithaditya&show_icons=true&theme=tokyonight)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=codeswithaditya&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=codeswithaditya&theme=tokyonight&hide_border=true"/>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=codeswithaditya&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeswithaditya&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codeswithaditya&layout=compact&theme=tokyonight)
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=codeswithaditya&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-tiwari-12ba0231b)
+<p align="center">
+<a href="https://www.linkedin.com/in/aditya-tiwari-12ba0231b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my GitHub profile! Happy Coding! 🚀**
