@@ -3,11 +3,11 @@
 <h3 align="center">🚀 Full Stack Web Development Learner | AI & Vibe Coding Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Python+Developer;AI+%26+Automation;Vibe+Coding+Enthusiast;Building+Real+World+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Python+Developer;AI+%26+Automation;Vibe+Coding+Enthusiast;Building+Real+World+Projects" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=codeswithaditya&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=codeswithaditya&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -15,42 +15,34 @@
 # 🙋 About Me
 
 - 🎓 BCA Student (2023–2027)
-- 🌱 Currently Learning Full Stack Web Development
+- 🌱 Learning Full Stack Web Development
 - 🤖 AI & Vibe Coding Enthusiast
-- 💡 Passionate About Building Real-World Projects
+- 💡 Love Building Real-World Projects
 
 ---
 
 # 💻 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,mysql" />
 </p>
 
 ---
 
-# 📂 Projects
+# 🚀 Projects
 
-✅ JavaScript Mini Projects
-
-✅ DigitalSaathi Website
-
-✅ Solo.ai
-
-🚀 More Projects Coming Soon...
+- ✅ JavaScript Mini Projects
+- ✅ DigitalSaathi Website
+- ✅ Solo.ai
+- 🚀 More Projects Coming Soon...
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=codeswithaditya&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeswithaditya&layout=compact&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=codeswithaditya&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeswithaditya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -58,9 +50,7 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=codeswithaditya&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=codeswithaditya&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -68,9 +58,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=codeswithaditya&theme=tokyonight&row=1&column=7"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=codeswithaditya&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -83,8 +71,12 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
+<a href="https://github.com/codeswithaditya">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
 </p>
 
 ---
 
-⭐ Thanks for visiting my GitHub Profile! Happy Coding! 🚀
+⭐ **Thanks for visiting my profile! Happy Coding 🚀**
