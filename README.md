@@ -61,6 +61,12 @@
 <img src="https://github-profile-trophy.vercel.app/?username=codeswithaditya&theme=tokyonight" />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/codeswithaditya/codeswithaditya/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 # 🌐 Connect With Me
 
 <p align="center">
