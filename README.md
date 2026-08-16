@@ -14,7 +14,7 @@
 
 # 🙋 About Me
 
-- 🎓 BCA Student (2023–2027)
+- 🎓 BCA Student (2024–2027)
 - 🌱 Learning Full Stack Web Development
 - 🤖 AI & Vibe Coding Enthusiast
 - 💡 Love Building Real-World Projects
